@@ -1,2 +1,2 @@
-# FizzBuzz.js
+# FizzBuzz
 FizzBuzz program in javascript
